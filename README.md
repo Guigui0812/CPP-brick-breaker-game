@@ -2,4 +2,4 @@
 
 Coded during my computer science degree at the UPJV in 2020.
 
-![My Image](Capture.png)
+![My Image](Capture.PNG)
