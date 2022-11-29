@@ -1,0 +1,11 @@
+# Ignore all text files
+*.txt
+
+# Ignore IMAGES
+Capture.PNG
+
+# Ignore all objects / libraries
+*.o
+*.dll
+*.exe
+sdl2-config
